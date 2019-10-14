@@ -1,6 +1,10 @@
-# MIE301_design_project
-Design of walking mechanism for MIE301: Kinematic &amp; Dynamics of Machinery at UofT
-<object data="https://github.com/OsvaldN/MIE301_design_project/blob/master/Final%20Report%20.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/OsvaldN/MIE301_design_project/blob/master/Final%20Report%20.pdf">
-    </embed>
-</object>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>MIE301 Design Project</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/OsvaldN/MIE301_design_project/raw/master/Final%20Report%20.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
